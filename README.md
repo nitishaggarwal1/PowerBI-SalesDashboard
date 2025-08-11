@@ -10,9 +10,15 @@ This Power BI report provides an interactive Sales Performance Dashboard. It inc
 - Measures for total sales, average sales, and profit  
 - Basic formatting for readability and presentation  
 
-## Files  
-- `SalesDashboard.pbix`: Power BI report file  
-- `README.md`: This file  
+## Screenshots  
+Below are screenshots of the dashboard showcasing key visuals and interactions:
+
+![Dashboard Screenshot 1](SalesDashboardImg1.png)  
+![Dashboard Screenshot 2](SalesDashboardImg2.png)  
+![Dashboard Screenshot 3](SalesDashboardImg3.png)  
+![Dashboard Screenshot 4](SalesDashboardImg4.png)  
+![Dashboard Screenshot 5](SalesDashboardImg5.png)  
+![Dashboard Screenshot 6](SalesDashboardImg6.png)  
 
 ## How to Use  
 1. Open `SalesDashboard.pbix` in Power BI Desktop (version 2.xx or later recommended)  
@@ -27,5 +33,4 @@ This Power BI report provides an interactive Sales Performance Dashboard. It inc
 
 ---
 
-Feel free to modify this README to add more details or your personal notes! Want me to help you with anything else?
-
+Feel free to customize the screenshot captions or order. Want help with anything else?
